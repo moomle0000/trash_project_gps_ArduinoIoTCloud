@@ -1,3 +1,3 @@
-#define SECRET_SSID "TP-LINK_Extender_2.4GHz"
-#define SECRET_OPTIONAL_PASS "jf981103"
-#define SECRET_DEVICE_KEY "MBN2DXWBDIJXN5B2JAKS"
+#define SECRET_SSID "fdgfdgdfgdfg"
+#define SECRET_OPTIONAL_PASS "dfgdfgdfgfd"
+#define SECRET_DEVICE_KEY "MBN2DfgfdgfdgdfBDIJXN5B2hAKS"
