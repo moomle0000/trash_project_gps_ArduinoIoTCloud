@@ -22,7 +22,7 @@
   - Ultrasonic Distance Sensor - HC-SR04
 
 
-## connect 
+## Divece connect to esp 
 
 - [`ultrasonic`](#pin-on-ultrasonic)
 - [`GPS neo 6m`](#Pin-on-GPS-neo-6m)
