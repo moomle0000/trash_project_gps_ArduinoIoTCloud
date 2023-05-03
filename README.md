@@ -8,7 +8,10 @@
 ## diagram
 
 ![diagram](https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png)
+## connections 
 
+- [`ultrasonic`](digram/README.md#pin-on-ultrasonic)
+- [`GPS neo 6m`](digram/README.md#Pin-on-GPS-neo-6m)
 ## Libraries
 
 - `ArduinoIoTCloud`
@@ -23,8 +26,5 @@
   - Ultrasonic Distance Sensor - HC-SR04
 
 
-## connections 
 
-- [`ultrasonic`](digram/README.md#pin-on-ultrasonic)
-- [`GPS neo 6m`](digram/README.md#Pin-on-GPS-neo-6m)
 
