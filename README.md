@@ -3,10 +3,8 @@
 - [ultrasonic](#Pin-on-ultrasonic)
 - [GPS neo 6m](#Pin-on-GPS-neo-6m)
 
-<a>
-    <img src="https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png" alt="Logo" >
-</a>
-  
+![daigram](https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png)
+
 ### Pin on ultrasonic
 
 | ultrasonic | esp32   | NODEMCU |
