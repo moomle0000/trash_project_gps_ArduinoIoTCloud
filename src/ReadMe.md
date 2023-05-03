@@ -12,7 +12,7 @@ to set DEVICE_KEY
 
 wifi Connect 
 
-to connect Arduino IoT Cloud
+connect api Arduino IoT Cloud
 
 get varbels form cloud
 
