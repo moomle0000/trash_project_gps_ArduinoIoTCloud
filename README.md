@@ -1,7 +1,8 @@
 # trash_project_gps_ArduinoIoTCloud
 
-- [ultrasonic](#Pin-on-ultrasonic)
-- [GPS neo 6m](#Pin-on-GPS-neo-6m)
+- [Libraries](#Libraries)
+- [Hardware](#Hardware)
+- [daigram](#libraries)
 
 ![daigram](https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png)
 
