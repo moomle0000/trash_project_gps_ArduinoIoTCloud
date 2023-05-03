@@ -25,8 +25,8 @@
 
 ## connections 
 
-- [`ultrasonic`](#pin-on-ultrasonic)
-- [`GPS neo 6m`](#Pin-on-GPS-neo-6m)
+- [`ultrasonic`](digram/README.md#pin-on-ultrasonic)
+- [`GPS neo 6m`](digram/README.md#Pin-on-GPS-neo-6m)
 
 ### Pin on ultrasonic
 
