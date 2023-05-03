@@ -53,5 +53,5 @@ Add the bill of the materials you need for this project.
 
 
 <a>
-    <img src="https://cdn.discordapp.com/attachments/810756128295354419/1103136274040246292/image.png" alt="Logo" >
+    <img src="https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png" alt="Logo" >
   </a>
