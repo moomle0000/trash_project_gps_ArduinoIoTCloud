@@ -1,1 +1,6 @@
 
+## Libraries
+
+- `ArduinoIoTCloud`
+- `TinyGPS`
+- `SoftwareSerial`
