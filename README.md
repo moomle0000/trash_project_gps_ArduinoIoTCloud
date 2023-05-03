@@ -3,6 +3,7 @@
 - [Libraries](#Libraries)
 - [Hardware](#Hardware)
 - [diagram](#diagram)
+- [connections](#connections)
 
 ## diagram
 
@@ -22,7 +23,7 @@
   - Ultrasonic Distance Sensor - HC-SR04
 
 
-## Divece connect to esp 
+## connections 
 
 - [`ultrasonic`](#pin-on-ultrasonic)
 - [`GPS neo 6m`](#Pin-on-GPS-neo-6m)
