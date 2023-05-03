@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: trash_project_gps_ArduinoIoTCloud
 
 Describe your project
 
