@@ -2,11 +2,11 @@
 
 - [Libraries](#Libraries)
 - [Hardware](#Hardware)
-- [daigram](#daigram)
+- [diagram](#diagram)
 
-# daigram
+# diagram
 
-![daigram](https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png)
+![diagram](https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png)
 
 ## Libraries
 
