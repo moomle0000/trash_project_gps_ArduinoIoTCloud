@@ -4,7 +4,7 @@
 - [Hardware](#Hardware)
 - [diagram](#diagram)
 
-# diagram
+## diagram
 
 ![diagram](https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png)
 
@@ -20,6 +20,12 @@
   - DOIT ESP32 DEVKIT V1 Board
   - NEO-6M GPS
   - Ultrasonic Distance Sensor - HC-SR04
+
+
+## connect 
+
+- [`ultrasonic`](Pin-on-ultrasonic)
+- [`GPS neo 6m`](Pin-on-GPS-neo-6m)
 
 ### Pin on ultrasonic
 
