@@ -5,15 +5,18 @@
 
 ![daigram](https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png)
 
+## Libraries
 
+- `ArduinoIoTCloud`
+- `TinyGPS`
+- `SoftwareSerial`
 
+## Hardware
 
-Libraries
----------
-* `ArduinoIoTCloud`  
-* `TinyGPS`
-* `SoftwareSerial`
-
+- In this project I'll use **DOIT ESP32 DEVKIT V1 Board**. You can use any Arduino boards or esp that are compatible with the Arduino IoT Cloud:
+  - DOIT ESP32 DEVKIT V1 Board
+  - NEO-6M GPS
+  - Ultrasonic Distance Sensor - HC-SR04
 
 ### Pin on ultrasonic
 
