@@ -5,6 +5,16 @@
 
 ![daigram](https://cdn.discordapp.com/attachments/810756128295354419/1103136999294107658/image.png)
 
+
+
+
+Libraries
+---------
+* `ArduinoIoTCloud`  
+* `TinyGPS`
+* `SoftwareSerial`
+
+
 ### Pin on ultrasonic
 
 | ultrasonic | esp32   | NODEMCU |
